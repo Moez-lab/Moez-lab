@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Moez;Building+AI+Systems;Crafting+Mobile+Experiences;Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Moez;Building+AI+Systems;Fullstack+Developer;LLM+Integrator" alt="Typing SVG" />
 
   <p>
     <a href="https://flowcv.com/resume/ia83e3vkm9kr">
