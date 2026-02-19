@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=500&color=25c2a0&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B+I'm+Moez;Architecting+AI+Innovations;Fullstack+AI+Engineer;LLM+Integration+Expert" alt="Typing SVG" />
   <p>
-    <a href="https://flowcv.com/resume/ia83e3vkm9kr">
+    <a href="https://flowcv.com/resume/ia83e3vkm9kr](https://www.overleaf.com/read/czqrnkxkcjcb#92b615">
       <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=read.cv&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/moezzakir/">
