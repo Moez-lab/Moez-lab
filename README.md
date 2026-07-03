@@ -38,7 +38,7 @@
   <br/><br/>
   
   <p><b>Frontend & Mobile Development</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,tailwind,bootstrap,flutter,ts,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,tailwind,bootstrap,ts,js&theme=dark" />
   
   <br/><br/>
   
